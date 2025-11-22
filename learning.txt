@@ -1,2 +1,3 @@
 
 Git hub is a platform used to store, manage and collaborate codes
+["What I have learned from this course"]
